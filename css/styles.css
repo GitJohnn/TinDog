@@ -149,10 +149,6 @@ p{
   text-align: center;
 }
 
-.ft{
-  color: grey;
-}
-
 /* Media Query */
 
 @media (max-width: 1028px) {
